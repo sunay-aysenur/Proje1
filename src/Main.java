@@ -19,5 +19,7 @@ public class Main {
 
         library.returnBook(1, 101); // Ali returns 1984
         library.listBooks();
+
+        library.listMembers();
     }
 }
